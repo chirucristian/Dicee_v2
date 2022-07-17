@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roll me!</string>
+    <string name="jackpot_text">Jackpot!</string>
+</resources>
